@@ -1,0 +1,17 @@
+"""
+الرابط:https://github.com/immmh5/-
+
+https://github.com/immmh5/-
+
+اسم الحساب:immmh5
+
+
+ال3 اوامر الي تستخدمها مع اول اوامر
+
+1>git clone (الرابط بدون القوسين)
+
+2>git add .
+3>git commit -m "added files"
+4>git push
+    اسم الحساب و التوكن
+"""
